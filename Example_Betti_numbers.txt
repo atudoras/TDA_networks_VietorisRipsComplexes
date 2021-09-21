@@ -1,5 +1,0 @@
-Betti number 0: 1
-Betti number 1: 1
-Betti number 2: 0
-Betti number 3: 0
-Betti number 4: 0
